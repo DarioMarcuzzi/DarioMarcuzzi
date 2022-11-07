@@ -1,6 +1,6 @@
 ### Hola 👋
 
-<img src="https://i.gifer.com/6M8G.gif" alt="programacion" width="40" height="40">
+<img src="https://i.blogs.es/fd396a/hook/450_1000.jpg" alt="programacion">
 
 🔭 Actualmente me encuentro remasterizando proyectos viejos.
 💬 Preguntame sobre HTML, CSS, Javascript, React, Redux, Node.js, Express, Postgres, Sequelize
