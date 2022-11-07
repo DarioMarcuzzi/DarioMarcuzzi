@@ -20,11 +20,12 @@ Desarrollar la app usando para el Front React, Redux, CSS puro y Back desarrolla
 <>
 
 https://github.com/DarioMarcuzzi/PI-Pokemon-main
-
+<p>
 <img src="https://res.cloudinary.com/dmpqjroj5/image/upload/v1667863505/imagenes%20Proyecto%20final%20henry/proyecto%20PI%20pokemons/landing_izg8qw.png" width="200" >
 <img src="https://res.cloudinary.com/dmpqjroj5/image/upload/v1667863512/imagenes%20Proyecto%20final%20henry/proyecto%20PI%20pokemons/home_vgcpea.png" width="200" >
 <img src="https://res.cloudinary.com/dmpqjroj5/image/upload/v1667863519/imagenes%20Proyecto%20final%20henry/proyecto%20PI%20pokemons/create_POkemon_nvq1uz.png" width="200" >
 <img src="https://res.cloudinary.com/dmpqjroj5/image/upload/v1667863508/imagenes%20Proyecto%20final%20henry/proyecto%20PI%20pokemons/info_pokemon_znrsr6.png" width="200" >
+</p>
 <hr>
 
 
