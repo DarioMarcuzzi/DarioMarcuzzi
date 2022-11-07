@@ -5,6 +5,8 @@
 🔭 Actualmente me encuentro remasterizando proyectos viejos.
 💬 Preguntame sobre HTML, CSS, Javascript, React, Redux, Node.js, Express, Postgres, Sequelize
 📫 Contactame a dariomarcuzzi2@gmail.com
+esto si ?
+
 
 <h3 align="left">Lenguajes y herramientas:</h3>
 <p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
