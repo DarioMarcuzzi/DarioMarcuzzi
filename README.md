@@ -1,6 +1,7 @@
 ### Hola 👋
 
-<div style="padding-top:64.000%;position:relative;"><iframe src="https://gifer.com/embed/6M8G" width="100%" height="100%" style='position:absolute;top:0;left:0;' frameBorder="0" allowFullScreen></iframe></div><p><a href="https://gifer.com">a través de GIFER</a></p>
+<img src="https://res.cloudinary.com/dmpqjroj5/image/upload/v1667862281/imagenes%20Proyecto%20final%20henry/Dario_Marcuzzi_k6net1.png" alt="title">
+
 
 🔭 Actualmente me encuentro remasterizando proyectos viejos.
 💬 Preguntame sobre HTML, CSS, Javascript, React, Redux, Node.js, Express, Postgres, Sequelize
