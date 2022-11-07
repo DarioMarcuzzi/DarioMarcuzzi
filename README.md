@@ -10,9 +10,12 @@
 </a>
 
 <hr>
-
+<strong>
+<p>
 PokemonsApp				Septiembre 12. - Octubre 3  
 Henry Bootcamp, Buenos Aires, Argentina.  
+</p>
+</strong>
 
 Diseñar y desarrollar una App de Pokémon, incluido la creacion busqueda y filtrado de los mismos, acceder a sus detalles 
 
@@ -27,10 +30,10 @@ https://github.com/DarioMarcuzzi/PI-Pokemon-main
 <img src="https://res.cloudinary.com/dmpqjroj5/image/upload/v1667863508/imagenes%20Proyecto%20final%20henry/proyecto%20PI%20pokemons/info_pokemon_znrsr6.png" width="200" alt="infoPokemon" >
 </p>
 <hr>
-
+<strong><p>
 Coffee Street E-commerce 		Octubre. 15  -Noviembre. 3 
 
-Henry Bootcamp
+Henry Bootcamp</p></strong>
 
  Participación en un equipo de desarrollo ágil con sprints de una semana presentándole a un Product Owner avances sobre el desarrollo de una app completa de un E-commerce con diseño y desarrollo de las siguientes features: Features básicas de e-commerce (CRUD de productos, auth, catálogo, checkout, etc..) 
 
