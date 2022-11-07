@@ -3,10 +3,29 @@
 <img src="https://res.cloudinary.com/dmpqjroj5/image/upload/v1667862281/imagenes%20Proyecto%20final%20henry/Dario_Marcuzzi_k6net1.png" alt="title">
 
 
-🔭 Actualmente me encuentro remasterizando proyectos viejos.
-💬 Preguntame sobre HTML, CSS, Javascript, React, Redux, Node.js, Express, Postgres, Sequelize
-📫 Contactame a dariomarcuzzi2@gmail.com
-esto si ?
+<hr>
+🔭 <p>Actualmente me encuentro remasterizando proyectos viejos.
+💬 Preguntame sobre HTML, CSS, Javascript, React, Redux, Node.js, Express, Postgres, Sequelize</p>
+📫 Contactame a dariomarcuzzi@gmail.com
+</a>
+
+<hr>
+
+PokemonsApp				Septiembre 12. - Octubre 3  
+Henry Bootcamp, Buenos Aires, Argentina.  
+
+Diseñar y desarrollar una App de Pokémon, incluido la creacion busqueda y filtrado de los mismos, acceder a sus detalles 
+
+Desarrollar la app usando para el Front React, Redux, CSS puro y Back desarrollado en Node.js con Express. Base de datos en PostgreSQL y Sequelize. 
+<>
+
+https://github.com/DarioMarcuzzi/PI-Pokemon-main
+
+<img src="https://res.cloudinary.com/dmpqjroj5/image/upload/v1667863505/imagenes%20Proyecto%20final%20henry/proyecto%20PI%20pokemons/landing_izg8qw.png" width="200" >
+<img src="https://res.cloudinary.com/dmpqjroj5/image/upload/v1667863512/imagenes%20Proyecto%20final%20henry/proyecto%20PI%20pokemons/home_vgcpea.png" width="200" >
+<img src="https://res.cloudinary.com/dmpqjroj5/image/upload/v1667863519/imagenes%20Proyecto%20final%20henry/proyecto%20PI%20pokemons/create_POkemon_nvq1uz.png" width="200" >
+<img src="https://res.cloudinary.com/dmpqjroj5/image/upload/v1667863508/imagenes%20Proyecto%20final%20henry/proyecto%20PI%20pokemons/info_pokemon_znrsr6.png" width="200" >
+<hr>
 
 
 <h3 align="left">Lenguajes y herramientas:</h3>
