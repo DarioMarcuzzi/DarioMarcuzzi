@@ -6,7 +6,7 @@
 <hr>
 🔭 <p>Actualmente me encuentro remasterizando proyectos viejos.
 💬 Preguntame sobre HTML, CSS, Javascript, React, Redux, Node.js, Express, Postgres, Sequelize</p>
-📫 Contactame a dariomarcuzzi@gmail.com
+📫 Contactame a dariomarcuzzi2@gmail.com
 </a>
 
 <hr>
