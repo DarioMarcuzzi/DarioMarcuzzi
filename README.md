@@ -4,7 +4,7 @@
 
 
 <hr>
-🔭 <p>Actualmente me encuentro remasterizando proyectos viejos.
+🔭 <p>Actualmente me encuentro haciendo una aplicacion sobre micro front end
 💬 Preguntame sobre HTML, CSS, Javascript, React, Redux, Node.js, Express, Postgres, Sequelize</p>
 📫 Contactame a dariomarcuzzi2@gmail.com
 </a>
